@@ -7,4 +7,4 @@ sidebar_image: /images/cover.jpg
 markdown: redcarpet
 highlighter: pygments
 baseurl: "/going-doer" # the subpath of your site, e.g. /blog/
-url: "going-doer.github.io"
+url: "https://going-doer.github.io"
