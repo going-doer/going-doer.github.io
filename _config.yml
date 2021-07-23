@@ -1,7 +1,7 @@
 # Site settings
 title: 'iaminju' # Your Title
 tagline: 'Korea University iOS Developer' # A brief tagline for your site
-sidebar_image: '/images/cover.jpeg'
+sidebar_image: /images/sidebar.jpeg
 
 # Build settings
 markdown: redcarpet
