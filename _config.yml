@@ -6,5 +6,5 @@ sidebar_image: /images/cover.jpg
 # Build settings
 markdown: redcarpet
 highlighter: pygments
-baseurl: "/going-doer" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://going-doer.github.io"
